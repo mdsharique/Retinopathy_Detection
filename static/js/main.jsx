@@ -198,7 +198,7 @@ class MainPage extends React.Component {
                             <p>Upload an image</p>
                         </div>
                         <Label for="imageUpload">
-                            <Input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg, .tif" ref="file"
+                            <Input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg" ref="file"
                                    onChange={this._onFileUpload}/>
                             <span className="btn btn-primary">Upload</span>
                         </Label>

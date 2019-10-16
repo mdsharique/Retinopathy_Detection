@@ -1,5 +1,5 @@
-title: Diabetic Retinopathy Detection
-description: Classify Kaggle 2015 competition fundus images using deep learning
+title: Diabetic Retinopathy Detection using Deep Learning Model
+description: Rate presence of Diabetic Retinopathy into No DR, Mild DR, Moderate DR, Severe DR and Proliferative DR
 about:
 
 

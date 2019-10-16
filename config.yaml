@@ -1,5 +1,5 @@
 title: Diabetic Retinopathy Detection using Deep Learning Model
-description: Rate presence of Diabetic Retinopathy into No DR, Mild DR, Moderate DR, Severe DR and Proliferative DR
+description: Rate presence of Diabetic Retinopathy
 about:
 
 
@@ -16,12 +16,12 @@ code: https://github.com/mdsharique/Retinopathy_Detection
 
 sampleImages:
   - name: No Retinopathy
-    url: https://i.imgur.com/bag6XaA.jpg
+    url: https://drive.google.com/open?id=1V6GjAcKdByd8qMSmrtC12aJx7kkX-fa0
   - name: Mild Nonproliferative Retinopathy
-    url: https://i.imgur.com/ZcLBb6b.jpg
+    url: https://drive.google.com/open?id=1AEpBAz749Y03bgIum85I-PL0Ceq3WK8g
   - name: Moderate Nonproliferative Retinopathy
-    url: https://i.imgur.com/gLTumUd.jpg
+    url: https://drive.google.com/open?id=1CMCCcEEbhyO6pJGplv3_E9iOLZiVV9bl
   - name: Severe Nonproliferative Retinopathy
-    url: https://i.imgur.com/Uw0rR4Y.jpg
+    url: https://drive.google.com/open?id=1GTRjG84nkKq8ubCiepc1R8AmPoxETbFG
   - name: Proliferative Diabetic Retinopathy
-    url: https://i.imgur.com/TDUlmUa.jpg
+    url: https://drive.google.com/file/d/1Co62gnKuR7ljl2w0T3taI1raMoGRe9WI/view?usp=sharing
